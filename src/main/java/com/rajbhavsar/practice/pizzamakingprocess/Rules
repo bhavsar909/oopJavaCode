@@ -1,0 +1,40 @@
+What is entity ?
+
+Student    reads    book
+(subject)  (Verb)    (Obj)
+
+subject- Noun
+0bj - Noun
+
+all the nouns are nothing but entity.
+
+1.List down all the entities.
+In our case:
+1st : Ingredients
+2nd : Dough
+3rd : Base
+4th : Sauces, Toppings, Cheese
+5th : Pizza
+6th : None
+
+2. List the process.
+
+3. Repeat Step 1 for each process steps.
+
+4. Model entities in hierarchy.
+
+5. write the psudocode.
+
+6. verify
+
+7. write the code.
+
+
+Types of exception:
+1.Environmental : Connection fail,
+2.Data : exiding some limits
+3.Coding level :
+
+
+
+

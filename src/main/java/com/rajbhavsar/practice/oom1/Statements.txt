@@ -1,0 +1,4 @@
+1. Kapil is teaching Java to Sunil.
+2. Prakash is serving tea. (SHould be possible to serve coffee as well)
+3. Bill sells laptops to students at low cost.
+4. Tarang is travelling to Baroda in Maruti Swift with number GJ1 KG 5620 via Express Highway
